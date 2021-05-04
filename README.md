@@ -11,3 +11,4 @@ This is how to create a local Git repository and then push the repo to Git
 9) You can then use git diff then commit the chnages
 10) Also git log will tell you the number of commits you have done so far
 11) forgot to do step 4 !!
+12) Quick check on git diff command
